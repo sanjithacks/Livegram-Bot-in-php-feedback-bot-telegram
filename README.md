@@ -2,7 +2,7 @@
 
 A copy of the telegram bot @LivegramBot, only the basic functions
 
-### 1-Go to Telegram and send a message to the bot @BotFather
+### **1-Go to Telegram and send a message to the bot @BotFather **
 
 ```
 Send /newbot and configure the bot name and user name
@@ -15,7 +15,7 @@ Send /newbot and configure the bot name and user name
 
 
 
-### **3-  Set your WebHook**
+### **3-  Set your WebHook **
 
 ```
 https://api.telegram.org/bot<TOKEN>/setWebhook?url=<your website script link>
